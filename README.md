@@ -5,6 +5,7 @@ Hey! My name is Arthur, and I'm from Brazil (🇧🇷)
 * Systems Analysis and Development Student at UNINTER
 * Aspiring Back-end Developer | Growing & Evolving
 * Code. Eat. Sleep. Evolve. Repeat
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzh6eDN3Y3h6eHh6eHh6eHh6eHh6eHh6eHh6eHh6eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif" width="600px">
